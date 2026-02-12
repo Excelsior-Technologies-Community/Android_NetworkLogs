@@ -46,7 +46,7 @@ dependencyResolutionManagement {
 ### Add Dependency
 ```
 dependencies {
-	        implementation 'com.github.Excelsior-Technologies-Community:Android_ApiClientLibrary:1.0.0'
+	        implementation 'com.github.Excelsior-Technologies-Community:Android_NetworkLogs:1.0.0'
 	}
 ```
 
